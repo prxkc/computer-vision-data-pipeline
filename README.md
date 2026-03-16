@@ -69,4 +69,4 @@ https://huggingface.co/datasets/prxkc/scraping-cv-pipeline
 
 ## Kaggle Notebook
 
-https://www.kaggle.com/code/prxkc/fashion-image-preprocessing-pipeline
+https://www.kaggle.com/code/wennypies/notebooke3db615717
